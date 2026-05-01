@@ -1,4 +1,3 @@
-# -business_forecasting-
 **Задачі**=D
 
 Написання ТЗ
